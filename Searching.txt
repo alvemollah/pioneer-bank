@@ -1,0 +1,4 @@
+
+1.get bootstrap cdn
+
+2.javascript event names
